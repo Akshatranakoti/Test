@@ -1,3 +1,0 @@
-Name:Akshat Ranakoti
-Skills:HTML,CSS,JS,Next.js
-Email:test@gmail.com
