@@ -1,0 +1,3 @@
+Name :Akshat 
+Skills:HTML,CSS,JS,Next.js
+email:test@gmail.com
